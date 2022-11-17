@@ -23,6 +23,27 @@
   padding-bottom: 10vh;
 }
 
+.div-background {
+  background: url(../img/img-contacto.jpg);
+}
+
+#main-servicios {
+  padding-top: 15vh;
+  padding-bottom: 15vh;
+}
+#main-servicios h1 {
+  display: flex;
+  justify-content: left;
+}
+#main-servicios ul {
+  font-size: 1.5em;
+  justify-content: center;
+}
+#main-servicios li {
+  padding: 2vh;
+  align-items: center;
+}
+
 /*Barra de Navegacion*/
 .social {
   justify-content: right;
